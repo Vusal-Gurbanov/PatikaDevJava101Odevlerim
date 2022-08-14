@@ -44,6 +44,7 @@ public class NotHesaplama {
          System.out.println(str);}
     
 ```
+[Geri Dön ](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#patikadevjava-101-odevleri)
 -------------------------------------------------------------------------------------
 
 ### 2. Odev KDV hesaplama.
@@ -68,6 +69,7 @@ public class KDVhesaplama {
         System.out.println("KDV' li tutar : " + kdvliTutar);  
 
 ```
+[Geri Dön ](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#patikadevjava-101-odevleri)
 ----------------------------------------------------------------------------------------
 ### 3. Odev  Ucken Hipotenus Hesaplama
 ```
@@ -109,6 +111,7 @@ public class OgrenciNotHesaplama {
     }
 }
 ```
+[Geri Dön ](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#patikadevjava-101-odevleri)
 -----------------------------------------------------------------------------------
 ### 4.Odev Taksi Metre.
 ```
@@ -136,6 +139,7 @@ public class TaksiMetre {
     }
 }
 ```
+[Geri Dön ](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#patikadevjava-101-odevleri)
 -------------------------------------------------------------------------------
 ### 5. Odev Dairenin Yarı Çapını Hesaplama.
 ```
@@ -163,5 +167,5 @@ public class DaireCevreAlani {
 
     }
 ```
-
+[Geri Dön ](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#patikadevjava-101-odevleri)
 
