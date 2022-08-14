@@ -2,7 +2,7 @@
 --------
 [PatikadDev](www.patika.dev)
 ------------------------------------
- [1.Odev DeersNotu:][] [2. Odev KDV Hesaplama:][https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama] [3. Odev Üçken Hipotenus Hesaplama:][https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama]  
+ [1.Odev DeersNotu:][] [2. Odev KDV Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama) [3. Odev Üçken Hipotenus Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama)
 -----------------------------------------
 
 ### 1. Odev Ders notu hesaplama if kullanmadan.
