@@ -2,10 +2,10 @@
 --------
 [PatikadDev](www.patika.dev)
 ------------------------------------
-[### 1.Odev DeersNotu]: [### 2. Odev KDV Hesaplama]: [### 3. Odev Üçken Hipotenus Hesaplama]:  
+[### 1.][1.Odev DeersNotu] : [### 2. Odev KDV Hesaplama]: [### 3. Odev Üçken Hipotenus Hesaplama]:  
 -----------------------------------------
 
-### 1.odevim Ders notu hesaplama if kullanmadan.
+[### 1.] odevim Ders notu hesaplama if kullanmadan.
 ```
  import java.util.Scanner;
 public class NotHesaplama {
