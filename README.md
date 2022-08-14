@@ -1,8 +1,11 @@
 # PatikaDevJava101Odevlerim
 --------
-[Patika.dev] (www.patika.dev)
----
-## 1.odevim Ders notu hesaplama if kullanmadan.
+[PatikadDev](www.patika.dev)
+------------------------------------
+[1.Odev DeersNotu]: [2. Odev KDV Hesaplama]: [3. Odev Üçken Hipotenus Hesaplama]:  
+-----------------------------------------
+
+### 1.odevim Ders notu hesaplama if kullanmadan.
 ```
  import java.util.Scanner;
 public class NotHesaplama {
@@ -43,7 +46,7 @@ public class NotHesaplama {
 ```
 -------------------------------------------------------------------------------------
 
-## 2. Odev KDV hesaplama.
+### 2. Odev KDV hesaplama.
 
 ``` java.
 {import java.sql.SQLOutput;
@@ -66,7 +69,7 @@ public class KDVhesaplama {
 
 ```
 ----------------------------------------------------------------------------------------
-## 3. Odev  Ucken Hipotenus Hesaplama
+### 3. Odev  Ucken Hipotenus Hesaplama
 ```
 import java.util.Scanner;
 public class OgrenciNotHesaplama {
@@ -106,3 +109,31 @@ public class OgrenciNotHesaplama {
     }
 }
 ```
+-----------------------------------------------------------------------------------
+### 4.Odev Taksi Metre.
+```
+package Odevler;
+import java.util.Scanner;
+
+public class TaksiMetre {
+    public static void main(String[] args) {
+       // Kulanacağımız değişkenleri tanımlıyoruz.
+        int km;
+        double perKlm=2.5, total, startPice =10;
+
+        // Kulanıcıdan değer alıyoruz.
+        Scanner input= new Scanner(System.in);
+        System.out.print("Mesafeyi KM cinsinden giriniz : ");
+        km = input.nextInt();
+
+        //Kulanıcıdan aldığımız değeri KM ye carpalım ve sonucla başlangıc ücreti tplayalım.
+        total = (km * perKlm);
+        total += startPice;
+         // ve  son, indi bindi icin koşul tanımlayalım.
+        total= (total < 20.0) ? 20 : total;
+        System.out.println("Toplam tutar: " + total);
+
+    }
+}
+```
+-------------------------------------------------------------------------------
