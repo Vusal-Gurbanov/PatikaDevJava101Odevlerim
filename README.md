@@ -2,7 +2,7 @@
 --------
 [PatikadDev](www.patika.dev)
 ------------------------------------
-## [1.Odev DeersNotu:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#1-odev-ders-notu-hesaplama-if-kullanmadan) [2. Odev KDV Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama) [3. Odev Üçken Hipotenus Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama) [4. Odev Taksi Metre:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim#4odev-taksi-metre)
+## [1.Odev DeersNotu:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#1-odev-ders-notu-hesaplama-if-kullanmadan) [2. Odev KDV Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama) [3. Odev Üçken Hipotenus Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama)   [4. Odev Taksi Metre:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim#4odev-taksi-metre) [5.Odev Dairenin Yarı Çapını hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#5-odev-dairenin-yar%C4%B1-%C3%A7ap%C4%B1n%C4%B1-hesaplama)
 -----------------------------------------
 
 ### 1. Odev Ders notu hesaplama if kullanmadan.
