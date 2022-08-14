@@ -1,8 +1,8 @@
-# PatikaDevJava101Odevlerim
+# PatikaDevJava 101 Odevleri.
 --------
 [PatikadDev](www.patika.dev)
 ------------------------------------
- [1.Odev DeersNotu:][] [2. Odev KDV Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama) [3. Odev Üçken Hipotenus Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama)
+## [1.Odev DeersNotu:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#1-odev-ders-notu-hesaplama-if-kullanmadan) [2. Odev KDV Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#2-odev-kdv-hesaplama) [3. Odev Üçken Hipotenus Hesaplama:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim/blob/main/README.md#3-odev--ucken-hipotenus-hesaplama) [4. Odev Taksi Metre:](https://github.com/Vusal-Gurbanov/PatikaDevJava101Odevlerim#4odev-taksi-metre)
 -----------------------------------------
 
 ### 1. Odev Ders notu hesaplama if kullanmadan.
@@ -137,3 +137,31 @@ public class TaksiMetre {
 }
 ```
 -------------------------------------------------------------------------------
+### 5. Odev Dairenin Yarı Çapını Hesaplama.
+```
+package Odevler;
+
+import java.util.Scanner;
+
+
+public class DaireCevreAlani {
+    public static void main(String[] args) {
+        // değişkenleri tanımlayalım.
+        int r;
+        double pi = 3.14;
+
+        // kulanıcıdan deger alalım.
+        Scanner DaireYariCap = new Scanner(System.in);
+        System.out.println("Dairenin yarı çapını giriniz: ");
+        r = DaireYariCap.nextInt();
+        double alan = pi * r * r;
+        double cevre = 2 * pi * r ;
+
+        System.out.println("Dairenin alanı: " + alan);
+        System.out.println("Dairenin çevresi: " + cevre);
+    }
+
+    }
+```
+
+
