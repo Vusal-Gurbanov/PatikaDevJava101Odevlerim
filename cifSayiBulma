@@ -1,0 +1,34 @@
+package kosul_ifadeleri;
+
+import java.util.Scanner;
+
+public class cifSayiBulma {
+    public static void main(String[] args) {
+
+
+      /*  Java déngiler ile @"dan girilen say1ya kadar olan say1lardan
+
+        3 ve 4'e tam bolinen sayilarin ortalamasini hesaplayan program: yaziniz.*/
+
+        int number,piece=0,total=0;
+        double avarage;
+        Scanner inp=new Scanner(System.in);
+
+        System.out.println("Enter the number:");
+        number= inp.nextInt();
+        System.out.println("-------");
+
+        for (int i=1;i<=number;i++){
+            if ((i%3==0)&&(i%4==0)){
+                total+=i;
+                piece++;
+                System.out.println(i);
+            }
+        }
+        avarage=total/piece;
+        System.out.print("\nAverage of numbers divisible by 3 and 4 up to the entered number:"+avarage);
+        inp.close();
+
+
+    }
+}
